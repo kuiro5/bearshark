@@ -2,6 +2,14 @@ html, body {
   background-color: whitesmoke;
 }
 
+nav.bg-light {
+  background-color: #13ACAB !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #D1D6E1;
+}
+
 section {
   height: 100vh;
 }
