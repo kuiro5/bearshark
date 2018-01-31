@@ -14,3 +14,11 @@ h1 {
 .hero-text {
   margin: 50px 20px 0 20px;
 }
+
+.gallery-image {
+  max-width: 300px;
+}
+
+.coming-soon {
+  padding-top: 30px;
+}
