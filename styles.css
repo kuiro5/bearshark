@@ -4,6 +4,8 @@ html, body {
 
 section {
   height: 100vh;
+  padding-top: 56px;
+  box-sizing: border-box;
 }
 
 .hero-text {
