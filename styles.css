@@ -10,8 +10,12 @@ nav.bg-light {
   color: #D1D6E1;
 }
 
-section {
-  height: 100vh;
+main > .row , main > .row:target ~ .row {
+  display: none;
+}
+
+main > .row:target, main > .row:last-child {
+  display: block;
 }
 
 h1 {
